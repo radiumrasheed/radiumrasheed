@@ -2,5 +2,7 @@
 
 ##### I develop web applications
 
-- 🔭 I’m working with Angular & NodeJS full-time
-- 🌱 I'm currently learning python
+- 🌕 I'm a fullstack developer
+- 🔭 I’m working with TypeScript & NodeJS full-time
+- 🐍 I also write python
+- 🌱 I'm currently learning kubernetes
